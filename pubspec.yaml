@@ -1,0 +1,20 @@
+name: dyslexia_reader
+description: A Flutter app for dyslexia-friendly text reading
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  google_fonts: ^6.1.0
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: OpenDyslexic
+      fonts:
+        - asset: assets/fonts/OpenDyslexic-Regular.otf
