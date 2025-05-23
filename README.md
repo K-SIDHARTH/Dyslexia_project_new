@@ -1,4 +1,3 @@
-# dyslexia_reader_new
 
 A new Flutter project.
 

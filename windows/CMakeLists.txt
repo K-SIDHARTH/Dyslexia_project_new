@@ -6,6 +6,14 @@ project(dyslexia_reader_new LANGUAGES CXX)
 # the on-disk name of your application.
 set(BINARY_NAME "dyslexia_reader_new")
 
+=======
+project(dyslexia_reader LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "dyslexia_reader")
+>>>>>>> 8b0ec01ef879718b961b63a09122ef61b92098ca
+
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
 cmake_policy(VERSION 3.14...3.25)

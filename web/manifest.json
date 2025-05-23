@@ -1,6 +1,7 @@
 {
-    "name": "dyslexia_reader_new",
-    "short_name": "dyslexia_reader_new",
+"name": "dyslexia_reader_new",
+"short_name": "dyslexia_reader_new",
+
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
